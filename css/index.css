@@ -1,0 +1,17 @@
+.container {
+  max-width: 600px;
+}
+.btn {
+  background-color: #43d9be;
+  color: #fff;
+  outline: none !important;
+  border: none !important;
+}
+.btn:focus {
+  outline: none !important;
+}
+
+.time {
+  font-size: 0.7em;
+  color: #999;
+}
